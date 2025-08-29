@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ArrowLeftRight, Play, CheckCircle } from 'lucide-react';
+import { ArrowLeftRight, Play, CheckCircle, Calendar, MessageCircle, ArrowRight } from 'lucide-react';
 import { Card } from '../components/Card';
 import { Button } from '../components/Button';
 
