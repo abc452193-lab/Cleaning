@@ -8,7 +8,8 @@ import {
   Instagram, 
   Star,
   Sparkles,
-  CheckCircle
+  CheckCircle,
+  Calendar
 } from 'lucide-react';
 import { serviceAreas } from '../data/mockData';
 
