@@ -2,6 +2,7 @@ import React from 'react';
 import { Shield, Clock, Leaf, Award, Users, Zap, CheckCircle } from 'lucide-react';
 import { Card } from '../components/Card';
 import { AnimatedCounter } from '../components/AnimatedCounter';
+import { Button } from '../components/Button';
 
 export function WhyChooseSection() {
   const features = [

@@ -12,6 +12,7 @@ import {
   Calendar
 } from 'lucide-react';
 import { serviceAreas } from '../data/mockData';
+import { Button } from '../components/Button';
 
 export function FooterSection() {
   const currentYear = new Date().getFullYear();
