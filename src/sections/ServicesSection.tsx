@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Home, Building2, Sparkles, Calculator, MessageCircle } from 'lucide-react';
+import { Home, Building2, Sparkles, Calculator, MessageCircle, CheckCircle, Clock } from 'lucide-react';
 import { ServiceCard } from '../components/ServiceCard';
 import { Button } from '../components/Button';
 import { Card } from '../components/Card';
