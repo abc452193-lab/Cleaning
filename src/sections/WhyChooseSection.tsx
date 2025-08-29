@@ -150,7 +150,7 @@ export function WhyChooseSection() {
               <Button 
                 variant="secondary"
                 size="lg" 
-                className="bg-white text-green-700 hover:bg-gray-50 shadow-xl"
+                className="bg-white text-green-700 hover:bg-gray-50 hover:text-green-800 shadow-xl"
               >
                 <Shield className="w-5 h-5 mr-2" />
                 Learn About Our Guarantee
