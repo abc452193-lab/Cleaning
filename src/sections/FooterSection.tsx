@@ -142,6 +142,7 @@ export function FooterSection() {
                 <div className="bg-gradient-to-r from-orange-500 to-yellow-500 rounded-xl p-4 text-center">
                   <div className="text-sm font-medium mb-2">Get Instant Quote</div>
                   <Button variant="secondary" size="sm" className="bg-white text-orange-600 hover:bg-gray-50 w-full">
+                  <Button variant="secondary" size="sm" className="w-full">
                     <Calendar className="w-4 h-4 mr-2" />
                     Book Online
                   </Button>

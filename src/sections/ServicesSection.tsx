@@ -118,7 +118,7 @@ export function ServicesSection() {
                 <Button 
                   variant="secondary" 
                   size="lg"
-                  className="bg-white text-orange-600 hover:bg-gray-50 shadow-lg"
+                  className="shadow-lg"
                 >
                   <Calculator className="w-5 h-5 mr-2" />
                   Build Custom Package
@@ -126,7 +126,7 @@ export function ServicesSection() {
                 <Button 
                   variant="outline" 
                   size="lg"
-                  className="border-white text-white hover:bg-white hover:text-orange-600"
+                  className="border-white text-white hover:bg-white/10"
                 >
                   <MessageCircle className="w-5 h-5 mr-2" />
                   Speak to Expert

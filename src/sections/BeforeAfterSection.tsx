@@ -65,7 +65,7 @@ export function BeforeAfterSection() {
                 key={transformation.id}
                 hover
                 className="group cursor-pointer relative overflow-hidden"
-                onClick={() => setActiveImage(index)}
+                className="shadow-xl"
               >
                 {/* Image Placeholder with Gradient */}
                 <div className="w-full h-64 bg-gradient-to-br from-gray-200 via-gray-300 to-gray-400 rounded-lg mb-4 relative overflow-hidden">
@@ -128,7 +128,7 @@ export function BeforeAfterSection() {
                 <Button 
                   variant="outline" 
                   size="xl" 
-                  className="border-white text-white hover:bg-white hover:text-gray-900 px-12"
+                  className="border-white text-white hover:bg-white/10 px-12"
                 >
                   <MessageCircle className="w-6 h-6 mr-3" />
                   Get Custom Quote

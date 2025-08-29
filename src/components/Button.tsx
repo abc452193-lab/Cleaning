@@ -21,7 +21,7 @@ export function Button({
   
   const variants = {
     primary: 'bg-orange-500 hover:bg-yellow-500 text-white shadow-lg hover:shadow-xl focus:ring-orange-300',
-    secondary: 'bg-cyan-700 hover:bg-cyan-600 text-white shadow-lg hover:shadow-xl focus:ring-cyan-300',
+    secondary: 'bg-white text-orange-600 hover:bg-gray-50 hover:text-orange-700 shadow-lg hover:shadow-xl focus:ring-orange-300',
     outline: 'border-2 border-orange-500 text-orange-500 hover:bg-orange-500 hover:text-white focus:ring-orange-300',
     ghost: 'text-gray-600 hover:text-gray-900 hover:bg-gray-100 focus:ring-gray-300'
   };
